@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sun Dec  8 15:30:39 2019
+# Process ID: 9772
+# Current directory: C:/Users/17073/Desktop/FPGA/IntMatMulCore/IntMatMulCore
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8928 C:\Users\17073\Desktop\FPGA\IntMatMulCore\IntMatMulCore\IntMatMulCore.xpr
+# Log file: C:/Users/17073/Desktop/FPGA/IntMatMulCore/IntMatMulCore/vivado.log
+# Journal file: C:/Users/17073/Desktop/FPGA/IntMatMulCore/IntMatMulCore\vivado.jou
+#-----------------------------------------------------------
+start_gui

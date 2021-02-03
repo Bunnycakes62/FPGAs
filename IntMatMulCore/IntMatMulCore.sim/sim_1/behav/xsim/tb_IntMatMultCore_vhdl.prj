@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../IntMatMulCore.srcs/sources_1/new/IntMatMulCore.vhd" \
+"../../../../IntMatMulCore.srcs/sim_1/new/tb_IntMatMultCore.vhd" \
+
+# Do not sort compile order
+nosort

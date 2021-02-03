@@ -1,0 +1,22 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto db812872dfac413191691217d48a7a0c --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot tb_IntMatMultCore_behav xil_defaultlib.tb_IntMatMultCore -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-4940] 'dpram1024x16' remains a black box since it has no binding entity [C:/Users/17073/Desktop/FPGA/IntMatMulCore/IntMatMulCore/IntMatMulCore.srcs/sources_1/new/IntMatMulCore.vhd:66]
+WARNING: [VRFC 10-4940] 'dpram1024x16' remains a black box since it has no binding entity [C:/Users/17073/Desktop/FPGA/IntMatMulCore/IntMatMulCore/IntMatMulCore.srcs/sources_1/new/IntMatMulCore.vhd:78]
+WARNING: [VRFC 10-4940] 'dpram1024x64' remains a black box since it has no binding entity [C:/Users/17073/Desktop/FPGA/IntMatMulCore/IntMatMulCore/IntMatMulCore.srcs/sources_1/new/IntMatMulCore.vhd:90]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_textio
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling architecture intmatmulcore_arch of entity xil_defaultlib.IntMatMulCore [intmatmulcore_default]
+Compiling architecture behavior of entity xil_defaultlib.tb_intmatmultcore
+Built simulation snapshot tb_IntMatMultCore_behav

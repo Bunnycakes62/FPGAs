@@ -1,0 +1,1 @@
+-wto "db812872dfac413191691217d48a7a0c" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "tb_IntMatMultCore_behav" "xil_defaultlib.tb_IntMatMultCore" -log "elaborate.log" 
